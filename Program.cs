@@ -42,6 +42,7 @@ namespace prueba_moansoxd
            Console.WriteLine("La potencia de numero1 elevado al numero2: "+ (Math.Pow(n1, n2)));
 
             /////////////////////////////////////MODIFICACION DESDE VISUAL ESPERO FUNCIONE SINO F NOMAS :,,,,,,,,,,,,,,,,,V
+        Console.WriteLine("la raiz cuadrada de la suma de los dos numeros es: " + (Math.Sqrt(n1))/(Math.Pow(n2,2)-1));
         }
     }
 }
